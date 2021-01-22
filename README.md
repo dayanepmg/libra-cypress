@@ -1,6 +1,6 @@
 # libra-cypress
 
-1 - Escolher o local para fazer o download do projeto
+1 - Escolher o local para fazer o download do projeto/n
 2 - Abrir o terminal neste local(digitar cmd na caixa de endereço do diretório)
 3 - Fazer as instalações digitando os comandos: 
                 git clone  https://github.com/dayanepmg/libra-cypress
